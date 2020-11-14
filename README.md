@@ -15,7 +15,9 @@ To install `ytt` and get an optimal experience on windows, just:
 - [x] :book: Read the [VMWare Tanzu article that introduces k14s aka. Kubernetes Tools](https://tanzu.vmware.com/content/blog/introducing-k14s-kubernetes-tools-simple-and-composable-tools-for-application-deployment) why ytt has been created
 - [x] :smiley_cat: Enjoy
 
-# chocolatey-ytt
+# For developers only section
+
+## chocolatey-ytt
 
 [Chocolatey package](https://chocolatey.org/packages/ytt/) to install [k14s/ytt](https://github.com/k14s/ytt) (currenlty [under moderation process](https://github.com/adriens/chocolatey-ytt/issues/1))
 
@@ -25,8 +27,6 @@ cd chocolatey-ytt
 choco uninstall ytt
 choco install -fdv ytt.nuspec
 ```
-
-# For developers only section
 
 [Not yet implemented CI](https://github.com/adriens/chocolatey-ytt/issues/2) so:
 
