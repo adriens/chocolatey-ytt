@@ -1,2 +1,20 @@
+
 # chocolatey-ytt
-Chocolatey package source code for ytt
+
+Chocolatey package to install [k14s/ytt](https://github.com/k14s/ytt) (under moderation process)
+
+```
+git clone https://github.com/adriens/chocolatey-ytt.git
+cd chocolatey-ytt
+choco uninstall ytt
+choco install -fdv ytt.nuspec
+```
+
+# Release check list
+
+
+# Deploy to central
+
+```
+
+```
