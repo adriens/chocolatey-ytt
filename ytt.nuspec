@@ -17,7 +17,7 @@
     <iconUrl>https://avatars3.githubusercontent.com/u/48573588?s=200&amp;v=4</iconUrl>
     <packageSourceUrl>https://github.com/adriens/chocolatey-ytt</packageSourceUrl>
     <releaseNotes>https://github.com/k14s/ytt/releases/tag/v0.30.0</releaseNotes>
-    <docsUrl>https://github.com/k14s/ytt</docsUrl>
+    <docsUrl>https://github.com/k14s/ytt/tree/develop/docs</docsUrl>
     <bugTrackerUrl>https://github.com/k14s/ytt/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/k14s/ytt/</projectSourceUrl>
     <mailingListUrl>https://github.com/k14s/ytt/issues</mailingListUrl>
