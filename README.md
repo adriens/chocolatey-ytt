@@ -1,6 +1,15 @@
 ![Chocolatey Version](https://img.shields.io/chocolatey/v/ytt)
 ![Chocolatey Version (including pre-releases)](https://img.shields.io/chocolatey/v/ytt?include_prereleases)
 
+
+# Usage
+
+To install `ytt` and get an optimal experience on windows, just:
+
+- [x] Follow classic choco [instructions](https://chocolatey.org/packages/ytt/) to install/upgrade
+- [x] Install [ytt VS Code extension](https://marketplace.visualstudio.com/items?itemName=ewrenn.vscode-ytt)
+- :smiley_cat: Enjoy
+
 # chocolatey-ytt
 
 [Chocolatey package](https://chocolatey.org/packages/ytt/) to install [k14s/ytt](https://github.com/k14s/ytt) (under moderation process)
