@@ -1,6 +1,8 @@
 ![Chocolatey Version](https://img.shields.io/chocolatey/v/ytt)
 ![Chocolatey Version (including pre-releases)](https://img.shields.io/chocolatey/v/ytt?include_prereleases)
 
+![Project banner](choco-ytt-banner.png)
+
 
 # Usage
 
