@@ -17,7 +17,7 @@ To install `ytt` and get an optimal experience on windows, just:
 
 # chocolatey-ytt
 
-[Chocolatey package](https://chocolatey.org/packages/ytt/) to install [k14s/ytt](https://github.com/k14s/ytt) (currenlty under moderation process see #1)
+[Chocolatey package](https://chocolatey.org/packages/ytt/) to install [k14s/ytt](https://github.com/k14s/ytt) (currenlty [under moderation process](https://github.com/adriens/chocolatey-ytt/issues/1))
 
 ```
 git clone https://github.com/adriens/chocolatey-ytt.git
