@@ -26,10 +26,14 @@ choco uninstall ytt
 choco install -fdv ytt.nuspec
 ```
 
-# Release check list
+# For developers only section
+
+Not yet implemented CI so:
+
+## Release check list
 
 
-# Deploy to central
+## Deploy to central
 
 ```
 choco push ytt.0.30.0.nupkg --source https://push.chocolatey.org/ -apikey *******
