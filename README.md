@@ -28,7 +28,7 @@ choco install -fdv ytt.nuspec
 
 # For developers only section
 
-Not yet implemented CI so:
+[Not yet implemented CI](https://github.com/adriens/chocolatey-ytt/issues/2) so:
 
 ## Release check list
 
