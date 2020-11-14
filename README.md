@@ -13,6 +13,7 @@ To install `ytt` and get an optimal experience on windows, just:
 - [x] Follow [carvel.dev on Twitter (formerly k14s)](https://twitter.com/carvel_dev)
 - [x] :star: Star and follow [k14s organization and repos](https://github.com/k14s)
 - [x] :book: Read the [VMWare Tanzu article that introduces k14s aka. Kubernetes Tools](https://tanzu.vmware.com/content/blog/introducing-k14s-kubernetes-tools-simple-and-composable-tools-for-application-deployment) why ytt has been created
+- [x] :rocket:Discover [VMWare Open Source Program Office](http://vmware.github.io/)
 - [x] :smiley_cat: Enjoy
 
 # For developers only section
