@@ -11,7 +11,7 @@
     structure. It helps you easily configure complex software via reusable templates and
     user provided values.</description>
     <projectUrl>https://get-ytt.io/</projectUrl>
-    <tags>yaml template k8s k14s kubernetes</tags>
+    <tags>yaml template k8s k14s kubernetes devops cli foss vmware tanzu tkg docker</tags>
     <licenseUrl>https://github.com/k14s/ytt/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://avatars3.githubusercontent.com/u/48573588?s=200&amp;v=4</iconUrl>
