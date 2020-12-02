@@ -3,7 +3,7 @@
   <metadata>
     <id>ytt</id>
     <title>Carvel ytt</title>
-    <version>0.30.0.0</version>
+    <version>0.30.0</version>
     <authors>Carvel</authors>
     <owners>Adrien SALES</owners>
     <summary>YAML templating tool that works on YAML structure instead of text.</summary>
