@@ -7,9 +7,17 @@
     <authors>Carvel</authors>
     <owners>Adrien SALES</owners>
     <summary>YAML templating tool that works on YAML structure instead of text.</summary>
-    <description>ytt (pronounced spelled out) is a templating tool that understands YAML
-    structure. It helps you easily configure complex software via reusable templates and
-    user provided values.</description>
+    <description><![CDATA[`ytt` (pronounced spelled out) is a templating tool that understands
+    YAML structure. It helps you easily configure complex software via reusable templates
+    and user provided values. Ytt includes the following features:
+
+- Structural templating: understands yaml structure so users can focus on their configuration instead of issues associated with text templating, such as YAML value quoting or manual template indentation
+- Built-in programming language: includes the "fully featured" Python-like programming language Starklark which helps ease the burden of configuring complex software through a richer set of functionality.
+- Reusable configuration: You can reuse the same configuration in different environments by applying environment-specific values.
+- Custom validations: coupled with the fast and deterministic execution, allows you to take advantage of faster feedback loops when creating and testing templates
+- Overlays: this advanced configuration helps users manage the customization required for complex software. For more, see [this example](https://get-ytt.io/#example:example-overlay-files) in the online playground.
+- Sandboxing: provides a secure, deterministic environment for execution of templates
+    ]]></description>
     <projectUrl>https://get-ytt.io/</projectUrl>
     <tags>yaml template k8s k14s kubernetes devops cli foss vmware tanzu tkg docker helm</tags>
     <licenseUrl>https://github.com/k14s/ytt/blob/develop/LICENSE</licenseUrl>
