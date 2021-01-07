@@ -20,4 +20,3 @@ $package = Split-Path $tools
 $ytt_exe = Join-Path $package '/tools/ytt'
 
 Install-BinFile -Name 'ytt' -Path $ytt_exe
-Update-SessionEnvironment
