@@ -1,5 +1,6 @@
-![Chocolatey Version](https://img.shields.io/chocolatey/v/ytt)
-![Chocolatey Version (including pre-releases)](https://img.shields.io/chocolatey/v/ytt?include_prereleases)
+[![Chocolatey](https://img.shields.io/chocolatey/v/ytt.svg)](https://chocolatey.org/packages/ytt)
+[![Chocolatey](https://img.shields.io/chocolatey/dt/ytt.svg)](https://chocolatey.org/packages/ytt)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/carvel_dev?label=Follow%20Carvel.dev&style=social)
 
 ![Project banner](choco-ytt-banner.png)
