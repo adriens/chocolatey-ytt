@@ -3,7 +3,7 @@
   <metadata>
     <id>ytt</id>
     <title>Carvel ytt</title>
-    <version>0.30.0</version>
+    <version>0.31.0</version>
     <authors>Carvel</authors>
     <owners>Adrien SALES</owners>
     <summary>YAML templating tool that works on YAML structure instead of text.</summary>
@@ -20,15 +20,15 @@
     ]]></description>
     <projectUrl>https://get-ytt.io/</projectUrl>
     <tags>yaml template k8s k14s kubernetes devops cli foss vmware tanzu tkg docker helm</tags>
-    <licenseUrl>https://github.com/k14s/ytt/blob/develop/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/vmware-tanzu/carvel-ytt/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://avatars3.githubusercontent.com/u/48573588?s=200&amp;v=4</iconUrl>
     <packageSourceUrl>https://github.com/adriens/chocolatey-ytt</packageSourceUrl>
-    <releaseNotes>https://github.com/k14s/ytt/releases/tag/v0.30.0</releaseNotes>
-    <docsUrl>https://github.com/k14s/ytt/tree/develop/docs</docsUrl>
-    <bugTrackerUrl>https://github.com/k14s/ytt/issues</bugTrackerUrl>
-    <projectSourceUrl>https://github.com/k14s/ytt/</projectSourceUrl>
-    <mailingListUrl>https://github.com/k14s/ytt/issues</mailingListUrl>
+    <releaseNotes>https://github.com/vmware-tanzu/carvel-ytt/releases/tag/v0.31.0</releaseNotes>
+    <docsUrl>https://carvel.dev/ytt/docs/latest/</docsUrl>
+    <bugTrackerUrl>https://github.com/vmware-tanzu/carvel-ytt/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/vmware-tanzu/carvel-ytt/</projectSourceUrl>
+    <mailingListUrl>https://github.com/vmware-tanzu/carvel-ytt/discussions/</mailingListUrl>
     
   </metadata>
   <files>
