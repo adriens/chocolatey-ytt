@@ -10,6 +10,7 @@
 
 To install `ytt` and get an optimal experience on windows, just:
 
+- [x] :cinema:[Discover `ytt` in video](https://youtu.be/KbB5tI_g3bo)
 - [x] Follow classic choco [instructions](https://chocolatey.org/packages/ytt/) to install/upgrade
 - [x] Install [ytt VS Code extension](https://marketplace.visualstudio.com/items?itemName=ewrenn.vscode-ytt)
 - [x] :newspaper: Follow [carvel.dev on Twitter (formerly k14s)](https://twitter.com/carvel_dev)
