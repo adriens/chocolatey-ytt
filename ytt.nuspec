@@ -3,7 +3,7 @@
   <metadata>
     <id>ytt</id>
     <title>Carvel ytt</title>
-    <version>0.31.0</version>
+    <version>0.32.0</version>
     <authors>Carvel</authors>
     <owners>Adrien SALES</owners>
     <summary>YAML templating tool that works on YAML structure instead of text.</summary>
@@ -24,7 +24,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.statically.io/gh/adriens/chocolatey-kbld/main/img/CarvelLogo.png</iconUrl>
     <packageSourceUrl>https://github.com/adriens/chocolatey-ytt</packageSourceUrl>
-    <releaseNotes>https://github.com/vmware-tanzu/carvel-ytt/releases/tag/v0.31.0</releaseNotes>
+    <releaseNotes>https://github.com/vmware-tanzu/carvel-ytt/releases/tag/v0.32.0</releaseNotes>
     <docsUrl>https://carvel.dev/ytt/docs/latest/</docsUrl>
     <bugTrackerUrl>https://github.com/vmware-tanzu/carvel-ytt/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/vmware-tanzu/carvel-ytt/</projectSourceUrl>

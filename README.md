@@ -40,5 +40,5 @@ choco install -fdv ytt.nuspec
 ## Deploy to central
 
 ```
-choco push ytt.0.31.0.nupkg --source https://push.chocolatey.org/ -apikey *******
+choco push ytt.0.32.0.nupkg --source https://push.chocolatey.org/ -apikey *******
 ```
