@@ -5,10 +5,10 @@ in verifying that this package's contents are trustworthy.
 
 Binary file <ytt.exe> comes from the official release page :
 
-<https://github.com/vmware-tanzu/carvel-ytt/releases/tag/v0.32.0>
+<https://github.com/vmware-tanzu/carvel-ytt/releases/tag/v0.33.0>
 
 The only included binary is :
 
-bfe937df42faa81e42c49bab3e68e836eae981d7591669f410d2bbf1d2d71bae   ./ytt-windows-amd64.exe
+576cad089cdbf8e952c2f0e0bc877138ade4298f45c3e97859aabd18abd7a67e   ./ytt-windows-amd64.exe
 
 but renamed from <ytt-windows-amd64.exe> to <ytt.exe>.
