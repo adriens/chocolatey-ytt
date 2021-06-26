@@ -1,7 +1,7 @@
 $toolsDir    = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
 $ErrorActionPreference = 'Stop';
 
-
+Copy-Item "$toolsDir\ytt-windows-amd64.exe" -Destination "$toolsDir\ytt.exe"
 
 $packageArgs = @{
   packageName   = 'ytt'
