@@ -23,23 +23,8 @@ To install `ytt` and get an optimal experience on windows, just:
 
 ## Build locally
 
-
 ```
 git clone https://github.com/adriens/chocolatey-ytt.git
 cd chocolatey-ytt
-choco uninstall ytt
-choco install -fdv ytt.nuspec
-```
-
-:ballot_box_with_check: TODO section
-
-[Not yet implemented CI](https://github.com/adriens/chocolatey-ytt/issues/2) so:
-
-## Release check list
-
-
-## Deploy to central
-
-```
-choco push ytt.0.34.0.nupkg --source https://push.chocolatey.org/ -apikey *******
+ant make
 ```
