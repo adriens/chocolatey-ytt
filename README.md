@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bx5ilrwq7i59t0ob?svg=true)](https://ci.appveyor.com/project/adriens/chocolatey-ytt)
 [![Chocolatey](https://img.shields.io/chocolatey/v/ytt.svg)](https://chocolatey.org/packages/ytt)
 [![Chocolatey](https://img.shields.io/chocolatey/dt/ytt.svg)](https://chocolatey.org/packages/ytt)
 
