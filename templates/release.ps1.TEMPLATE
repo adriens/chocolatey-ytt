@@ -1,1 +1,1 @@
-﻿choco push ytt.@YTT_VERSION@.nupkg -s https://chocolatey.org/ -apikey $env:CHOCO_APIKEY
+﻿choco push ytt.@YTT_VERSION@ -s https://chocolatey.org/ -apikey $env:CHOCO_APIKEY
